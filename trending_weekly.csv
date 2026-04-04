@@ -1,0 +1,11 @@
+rank,owner,name,url,description,language,stars_total,forks,stars_this_week
+1,luongnv89,claude-howto,https://github.com/luongnv89/claude-howto,"A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",Python,18214,2177,14996
+2,microsoft,VibeVoice,https://github.com/microsoft/VibeVoice,Open-Source Frontier Voice AI,Python,35820,4093,11264
+3,Yeachan-Heo,oh-my-codex,https://github.com/Yeachan-Heo/oh-my-codex,"OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",TypeScript,14708,1365,10578
+4,Yeachan-Heo,oh-my-claudecode,https://github.com/Yeachan-Heo/oh-my-claudecode,Teams-first Multi-agent orchestration for Claude Code,TypeScript,23413,2108,9465
+5,hacksider,Deep-Live-Cam,https://github.com/hacksider/Deep-Live-Cam,real time face swap and one-click video deepfake with only a single image,Python,87935,12746,5847
+6,siddharthvaddem,openscreen,https://github.com/siddharthvaddem/openscreen,"Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",TypeScript,18678,1284,8513
+7,google-research,timesfm,https://github.com/google-research/timesfm,TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.,Python,14343,1236,3632
+8,NousResearch,hermes-agent,https://github.com/NousResearch/hermes-agent,The agent that grows with you,Python,24228,3137,9193
+9,SakanaAI,AI-Scientist-v2,https://github.com/SakanaAI/AI-Scientist-v2,The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search,Python,4715,659,1964
+10,mvanhorn,last30days-skill,https://github.com/mvanhorn/last30days-skill,"AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",Python,18186,1453,6214

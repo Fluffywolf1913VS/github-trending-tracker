@@ -1,0 +1,116 @@
+{
+  "generated_at_utc": "2026-04-04T09:29:49.948841+00:00",
+  "count": 10,
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_total": 18214,
+      "forks": 2177,
+      "stars_this_week": 14996
+    },
+    {
+      "rank": 2,
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_total": 35820,
+      "forks": 4093,
+      "stars_this_week": 11264
+    },
+    {
+      "rank": 3,
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "stars_total": 14708,
+      "forks": 1365,
+      "stars_this_week": 10578
+    },
+    {
+      "rank": 4,
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "stars_total": 23413,
+      "forks": 2108,
+      "stars_this_week": 9465
+    },
+    {
+      "rank": 5,
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars_total": 87935,
+      "forks": 12746,
+      "stars_this_week": 5847
+    },
+    {
+      "rank": 6,
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "stars_total": 18678,
+      "forks": 1284,
+      "stars_this_week": 8513
+    },
+    {
+      "rank": 7,
+      "owner": "google-research",
+      "name": "timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_total": 14343,
+      "forks": 1236,
+      "stars_this_week": 3632
+    },
+    {
+      "rank": 8,
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_total": 24228,
+      "forks": 3137,
+      "stars_this_week": 9193
+    },
+    {
+      "rank": 9,
+      "owner": "SakanaAI",
+      "name": "AI-Scientist-v2",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
+      "stars_total": 4715,
+      "forks": 659,
+      "stars_this_week": 1964
+    },
+    {
+      "rank": 10,
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 18186,
+      "forks": 1453,
+      "stars_this_week": 6214
+    }
+  ]
+}
