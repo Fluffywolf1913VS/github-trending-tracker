@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-04-04T22:34:07.615957+00:00",
+  "generated_at_utc": "2026-04-06T09:11:37.091613+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "luongnv89",
-      "name": "claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars_total": 18908,
-      "forks": 2264,
-      "stars_this_week": 14996
-    },
-    {
-      "rank": 2,
       "owner": "Yeachan-Heo",
       "name": "oh-my-codex",
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
-      "stars_total": 15546,
-      "forks": 1460,
-      "stars_this_week": 10578
+      "stars_total": 16966,
+      "forks": 1621,
+      "stars_this_week": 13476
+    },
+    {
+      "rank": 2,
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_total": 20753,
+      "forks": 2475,
+      "stars_this_week": 15128
     },
     {
       "rank": 3,
@@ -31,9 +31,9 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_total": 36084,
-      "forks": 4120,
-      "stars_this_week": 11264
+      "stars_total": 36568,
+      "forks": 4200,
+      "stars_this_week": 10543
     },
     {
       "rank": 4,
@@ -42,75 +42,75 @@
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars_total": 19561,
-      "forks": 1342,
-      "stars_this_week": 8513
+      "stars_total": 23119,
+      "forks": 1547,
+      "stars_this_week": 12682
     },
     {
       "rank": 5,
-      "owner": "Yeachan-Heo",
-      "name": "oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "language": "TypeScript",
-      "stars_total": 23807,
-      "forks": 2156,
-      "stars_this_week": 9465
-    },
-    {
-      "rank": 6,
       "owner": "google-research",
       "name": "timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_total": 14643,
-      "forks": 1276,
-      "stars_this_week": 3632
+      "stars_total": 15030,
+      "forks": 1313,
+      "stars_this_week": 4702
     },
     {
-      "rank": 7,
+      "rank": 6,
       "owner": "NousResearch",
       "name": "hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 24896,
-      "forks": 3244,
-      "stars_this_week": 9193
+      "stars_total": 26911,
+      "forks": 3523,
+      "stars_this_week": 9940
     },
     {
-      "rank": 8,
-      "owner": "hacksider",
-      "name": "Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars_total": 88396,
-      "forks": 12827,
-      "stars_this_week": 5847
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "owner": "onyx-dot-app",
       "name": "onyx",
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars_total": 24164,
-      "forks": 3244,
-      "stars_this_week": 4006
+      "stars_total": 25271,
+      "forks": 3375,
+      "stars_this_week": 4741
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_total": 79946,
+      "forks": 9299,
+      "stars_this_week": 5633
+    },
+    {
+      "rank": 9,
       "owner": "vas3k",
       "name": "TaxHacker",
       "url": "https://github.com/vas3k/TaxHacker",
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
-      "stars_total": 4543,
-      "forks": 709,
-      "stars_this_week": 1861
+      "stars_total": 4740,
+      "forks": 728,
+      "stars_this_week": 2204
+    },
+    {
+      "rank": 10,
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "language": "",
+      "stars_total": 37523,
+      "forks": 6185,
+      "stars_this_week": 2235
     }
   ]
 }

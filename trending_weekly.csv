@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,luongnv89,claude-howto,https://github.com/luongnv89/claude-howto,"A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",Python,18908,2264,14996
-2,Yeachan-Heo,oh-my-codex,https://github.com/Yeachan-Heo/oh-my-codex,"OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",TypeScript,15546,1460,10578
-3,microsoft,VibeVoice,https://github.com/microsoft/VibeVoice,Open-Source Frontier Voice AI,Python,36084,4120,11264
-4,siddharthvaddem,openscreen,https://github.com/siddharthvaddem/openscreen,"Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",TypeScript,19561,1342,8513
-5,Yeachan-Heo,oh-my-claudecode,https://github.com/Yeachan-Heo/oh-my-claudecode,Teams-first Multi-agent orchestration for Claude Code,TypeScript,23807,2156,9465
-6,google-research,timesfm,https://github.com/google-research/timesfm,TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.,Python,14643,1276,3632
-7,NousResearch,hermes-agent,https://github.com/NousResearch/hermes-agent,The agent that grows with you,Python,24896,3244,9193
-8,hacksider,Deep-Live-Cam,https://github.com/hacksider/Deep-Live-Cam,real time face swap and one-click video deepfake with only a single image,Python,88396,12827,5847
-9,onyx-dot-app,onyx,https://github.com/onyx-dot-app/onyx,Open Source AI Platform - AI Chat with advanced features that works with every LLM,Python,24164,3244,4006
-10,vas3k,TaxHacker,https://github.com/vas3k/TaxHacker,"Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",TypeScript,4543,709,1861
+1,Yeachan-Heo,oh-my-codex,https://github.com/Yeachan-Heo/oh-my-codex,"OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",TypeScript,16966,1621,13476
+2,luongnv89,claude-howto,https://github.com/luongnv89/claude-howto,"A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",Python,20753,2475,15128
+3,microsoft,VibeVoice,https://github.com/microsoft/VibeVoice,Open-Source Frontier Voice AI,Python,36568,4200,10543
+4,siddharthvaddem,openscreen,https://github.com/siddharthvaddem/openscreen,"Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",TypeScript,23119,1547,12682
+5,google-research,timesfm,https://github.com/google-research/timesfm,TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.,Python,15030,1313,4702
+6,NousResearch,hermes-agent,https://github.com/NousResearch/hermes-agent,The agent that grows with you,Python,26911,3523,9940
+7,onyx-dot-app,onyx,https://github.com/onyx-dot-app/onyx,Open Source AI Platform - AI Chat with advanced features that works with every LLM,Python,25271,3375,4741
+8,sherlock-project,sherlock,https://github.com/sherlock-project/sherlock,Hunt down social media accounts by username across social networks,Python,79946,9299,5633
+9,vas3k,TaxHacker,https://github.com/vas3k/TaxHacker,"Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",TypeScript,4740,728,2204
+10,asgeirtj,system_prompts_leaks,https://github.com/asgeirtj/system_prompts_leaks,"Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",,37523,6185,2235
