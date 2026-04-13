@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-04-06T09:11:37.091613+00:00",
+  "generated_at_utc": "2026-04-13T09:57:47.022610+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "Yeachan-Heo",
-      "name": "oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "language": "TypeScript",
-      "stars_total": 16966,
-      "forks": 1621,
-      "stars_this_week": 13476
-    },
-    {
-      "rank": 2,
-      "owner": "luongnv89",
-      "name": "claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars_total": 20753,
-      "forks": 2475,
-      "stars_this_week": 15128
-    },
-    {
-      "rank": 3,
-      "owner": "microsoft",
-      "name": "VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_total": 36568,
-      "forks": 4200,
-      "stars_this_week": 10543
-    },
-    {
-      "rank": 4,
-      "owner": "siddharthvaddem",
-      "name": "openscreen",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "language": "TypeScript",
-      "stars_total": 23119,
-      "forks": 1547,
-      "stars_this_week": 12682
-    },
-    {
-      "rank": 5,
-      "owner": "google-research",
-      "name": "timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 15030,
-      "forks": 1313,
-      "stars_this_week": 4702
-    },
-    {
-      "rank": 6,
       "owner": "NousResearch",
       "name": "hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 26911,
-      "forks": 3523,
-      "stars_this_week": 9940
+      "stars_total": 73145,
+      "forks": 9726,
+      "stars_this_week": 38426
+    },
+    {
+      "rank": 2,
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_total": 19417,
+      "forks": 1553,
+      "stars_this_week": 7319
+    },
+    {
+      "rank": 3,
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars_total": 17503,
+      "forks": 2298,
+      "stars_this_week": 5873
+    },
+    {
+      "rank": 4,
+      "owner": "multica-ai",
+      "name": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars_total": 10172,
+      "forks": 1277,
+      "stars_this_week": 6846
+    },
+    {
+      "rank": 5,
+      "owner": "google-ai-edge",
+      "name": "gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "stars_total": 20796,
+      "forks": 1969,
+      "stars_this_week": 4148
+    },
+    {
+      "rank": 6,
+      "owner": "coleam00",
+      "name": "Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars_total": 17340,
+      "forks": 2739,
+      "stars_this_week": 2962
     },
     {
       "rank": 7,
-      "owner": "onyx-dot-app",
-      "name": "onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "owner": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 25271,
-      "forks": 3375,
-      "stars_this_week": 4741
+      "stars_total": 106028,
+      "forks": 6662,
+      "stars_this_week": 10592
     },
     {
       "rank": 8,
-      "owner": "sherlock-project",
-      "name": "sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars_total": 79946,
-      "forks": 9299,
-      "stars_this_week": 5633
+      "owner": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description": "",
+      "language": "C++",
+      "stars_total": 3606,
+      "forks": 345,
+      "stars_this_week": 2164
     },
     {
       "rank": 9,
-      "owner": "vas3k",
-      "name": "TaxHacker",
-      "url": "https://github.com/vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "language": "TypeScript",
-      "stars_total": 4740,
-      "forks": 728,
-      "stars_this_week": 2204
+      "owner": "NVIDIA",
+      "name": "personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "language": "Python",
+      "stars_total": 9151,
+      "forks": 1288,
+      "stars_this_week": 2331
     },
     {
       "rank": 10,
-      "owner": "asgeirtj",
-      "name": "system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-      "language": "",
-      "stars_total": 37523,
-      "forks": 6185,
-      "stars_this_week": 2235
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars_total": 5877,
+      "forks": 831,
+      "stars_this_week": 2815
     }
   ]
 }
