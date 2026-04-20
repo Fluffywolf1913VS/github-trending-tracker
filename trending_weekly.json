@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-04-13T09:57:47.022610+00:00",
+  "generated_at_utc": "2026-04-20T09:59:58.208738+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "NousResearch",
-      "name": "hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_total": 73145,
-      "forks": 9726,
-      "stars_this_week": 38426
-    },
-    {
-      "rank": 2,
       "owner": "forrestchang",
       "name": "andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_total": 19417,
-      "forks": 1553,
-      "stars_this_week": 7319
+      "stars_total": 63773,
+      "forks": 5560,
+      "stars_this_week": 45381
+    },
+    {
+      "rank": 2,
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_total": 103864,
+      "forks": 14802,
+      "stars_this_week": 38194
     },
     {
       "rank": 3,
-      "owner": "HKUDS",
-      "name": "DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "language": "Python",
-      "stars_total": 17503,
-      "forks": 2298,
-      "stars_this_week": 5873
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars_total": 63768,
+      "forks": 5355,
+      "stars_this_week": 14556
     },
     {
       "rank": 4,
+      "owner": "EvoMap",
+      "name": "evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars_total": 5832,
+      "forks": 557,
+      "stars_this_week": 3434
+    },
+    {
+      "rank": 5,
+      "owner": "lsdefine",
+      "name": "GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars_total": 4750,
+      "forks": 512,
+      "stars_this_week": 3512
+    },
+    {
+      "rank": 6,
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_total": 19710,
+      "forks": 3561,
+      "stars_this_week": 4455
+    },
+    {
+      "rank": 7,
       "owner": "multica-ai",
       "name": "multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars_total": 10172,
-      "forks": 1277,
-      "stars_this_week": 6846
+      "stars_total": 17207,
+      "forks": 2114,
+      "stars_this_week": 7831
     },
     {
-      "rank": 5,
-      "owner": "google-ai-edge",
-      "name": "gallery",
-      "url": "https://github.com/google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "language": "Kotlin",
-      "stars_total": 20796,
-      "forks": 1969,
-      "stars_this_week": 4148
+      "rank": 8,
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_total": 56461,
+      "forks": 9806,
+      "stars_this_week": 4458
     },
     {
-      "rank": 6,
-      "owner": "coleam00",
-      "name": "Archon",
-      "url": "https://github.com/coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "language": "TypeScript",
-      "stars_total": 17340,
-      "forks": 2739,
-      "stars_this_week": 2962
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "owner": "microsoft",
       "name": "markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 106028,
-      "forks": 6662,
-      "stars_this_week": 10592
-    },
-    {
-      "rank": 8,
-      "owner": "google-ai-edge",
-      "name": "LiteRT-LM",
-      "url": "https://github.com/google-ai-edge/LiteRT-LM",
-      "description": "",
-      "language": "C++",
-      "stars_total": 3606,
-      "forks": 345,
-      "stars_this_week": 2164
-    },
-    {
-      "rank": 9,
-      "owner": "NVIDIA",
-      "name": "personaplex",
-      "url": "https://github.com/NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
-      "language": "Python",
-      "stars_total": 9151,
-      "forks": 1288,
-      "stars_this_week": 2331
+      "stars_total": 113057,
+      "forks": 7327,
+      "stars_this_week": 9018
     },
     {
       "rank": 10,
-      "owner": "TheCraigHewitt",
-      "name": "seomachine",
-      "url": "https://github.com/TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "language": "Python",
-      "stars_total": 5877,
-      "forks": 831,
-      "stars_this_week": 2815
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_total": 32752,
+      "forks": 3992,
+      "stars_this_week": 5497
     }
   ]
 }
