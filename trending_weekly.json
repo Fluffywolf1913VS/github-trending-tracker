@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-04-20T09:59:58.208738+00:00",
+  "generated_at_utc": "2026-04-27T10:19:33.299745+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars_total": 15013,
+      "forks": 2083,
+      "stars_this_week": 10335
+    },
+    {
+      "rank": 2,
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars_total": 15871,
+      "forks": 2165,
+      "stars_this_week": 10070
+    },
+    {
+      "rank": 3,
       "owner": "forrestchang",
       "name": "andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_total": 63773,
-      "forks": 5560,
-      "stars_this_week": 45381
-    },
-    {
-      "rank": 2,
-      "owner": "NousResearch",
-      "name": "hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_total": 103864,
-      "forks": 14802,
-      "stars_this_week": 38194
-    },
-    {
-      "rank": 3,
-      "owner": "thedotmack",
-      "name": "claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "stars_total": 63768,
-      "forks": 5355,
-      "stars_this_week": 14556
+      "stars_total": 92312,
+      "forks": 8859,
+      "stars_this_week": 29944
     },
     {
       "rank": 4,
-      "owner": "EvoMap",
-      "name": "evolver",
-      "url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-      "language": "JavaScript",
-      "stars_total": 5832,
-      "forks": 557,
-      "stars_this_week": 3434
+      "owner": "zilliztech",
+      "name": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars_total": 9732,
+      "forks": 742,
+      "stars_this_week": 3537
     },
     {
       "rank": 5,
+      "owner": "thunderbird",
+      "name": "thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars_total": 4230,
+      "forks": 274,
+      "stars_this_week": 2244
+    },
+    {
+      "rank": 6,
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars_total": 66280,
+      "forks": 7444,
+      "stars_this_week": 6488
+    },
+    {
+      "rank": 7,
       "owner": "lsdefine",
       "name": "GenericAgent",
       "url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
-      "stars_total": 4750,
-      "forks": 512,
-      "stars_this_week": 3512
-    },
-    {
-      "rank": 6,
-      "owner": "shiyu-coder",
-      "name": "Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_total": 19710,
-      "forks": 3561,
-      "stars_this_week": 4455
-    },
-    {
-      "rank": 7,
-      "owner": "multica-ai",
-      "name": "multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "TypeScript",
-      "stars_total": 17207,
-      "forks": 2114,
-      "stars_this_week": 7831
+      "stars_total": 7574,
+      "forks": 857,
+      "stars_this_week": 2936
     },
     {
       "rank": 8,
-      "owner": "virattt",
-      "name": "ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "language": "Python",
-      "stars_total": 56461,
-      "forks": 9806,
-      "stars_this_week": 4458
+      "owner": "mksglu",
+      "name": "context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "language": "TypeScript",
+      "stars_total": 10540,
+      "forks": 728,
+      "stars_this_week": 2504
     },
     {
       "rank": 9,
-      "owner": "microsoft",
-      "name": "markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_total": 113057,
-      "forks": 7327,
-      "stars_this_week": 9018
+      "owner": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_total": 26318,
+      "forks": 2106,
+      "stars_this_week": 5013
     },
     {
       "rank": 10,
-      "owner": "Lordog",
-      "name": "dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "language": "Jupyter Notebook",
-      "stars_total": 32752,
-      "forks": 3992,
-      "stars_this_week": 5497
+      "owner": "Tracer-Cloud",
+      "name": "opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "language": "Python",
+      "stars_total": 3495,
+      "forks": 387,
+      "stars_this_week": 1511
     }
   ]
 }
