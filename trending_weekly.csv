@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,Hmbown,DeepSeek-TUI,https://github.com/Hmbown/DeepSeek-TUI,Coding agent for DeepSeek models that runs in your terminal,Rust,24761,2042,22034
-2,anthropics,financial-services,https://github.com/anthropics/financial-services,,Python,19756,2562,10272
-3,ruvnet,ruflo,https://github.com/ruvnet/ruflo,"🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",TypeScript,48758,5408,10779
-4,bytedance,UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra,TypeScript,32650,3231,2191
-5,LearningCircuit,local-deep-research,https://github.com/LearningCircuit/local-deep-research,"~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",Python,7152,632,2483
-6,docusealco,docuseal,https://github.com/docusealco/docuseal,"Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",Ruby,16312,1480,4020
-7,decolua,9router,https://github.com/decolua/9router,"Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",JavaScript,7791,1279,3318
-8,TauricResearch,TradingAgents,https://github.com/TauricResearch/TradingAgents,TradingAgents: Multi-Agents LLM Financial Trading Framework,Python,73517,14331,8872
-9,bwya77,vscode-dark-islands,https://github.com/bwya77/vscode-dark-islands,VSCode theme based off the easemate IDE and Jetbrains islands theme,PowerShell,8399,263,1588
-10,virattt,dexter,https://github.com/virattt/dexter,An autonomous agent for deep financial research,TypeScript,25231,3079,2741
+1,CloakHQ,CloakBrowser,https://github.com/CloakHQ/CloakBrowser,Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.,Python,14501,1130,9007
+2,rohitg00,agentmemory,https://github.com/rohitg00/agentmemory,#1 Persistent memory for AI coding agents based on real-world benchmarks,TypeScript,11961,1014,7103
+3,oven-sh,bun,https://github.com/oven-sh/bun,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",Rust,91884,4588,2098
+4,Imbad0202,academic-research-skills,https://github.com/Imbad0202/academic-research-skills,Academic Research Skills for Claude Code: research → write → review → revise → finalize,Python,10257,1106,3624
+5,yikart,AiToEarn,https://github.com/yikart/AiToEarn,Let's use AI to Earn!,TypeScript,15021,2480,4687
+6,anthropics,financial-services,https://github.com/anthropics/financial-services,,Python,24965,3450,5977
+7,mattpocock,skills,https://github.com/mattpocock/skills,Skills for Real Engineers. Straight from my .claude directory.,Shell,90690,7951,19679
+8,ruvnet,RuView,https://github.com/ruvnet/RuView,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,59511,7763,6733
+9,millionco,react-doctor,https://github.com/millionco/react-doctor,Your agent writes bad React. This catches it,TypeScript,10069,320,2430
+10,colbymchenry,codegraph,https://github.com/colbymchenry/codegraph,"Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",TypeScript,3889,282,1935
