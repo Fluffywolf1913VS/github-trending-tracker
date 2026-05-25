@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,CloakHQ,CloakBrowser,https://github.com/CloakHQ/CloakBrowser,Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.,Python,14501,1130,9007
-2,rohitg00,agentmemory,https://github.com/rohitg00/agentmemory,#1 Persistent memory for AI coding agents based on real-world benchmarks,TypeScript,11961,1014,7103
-3,oven-sh,bun,https://github.com/oven-sh/bun,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",Rust,91884,4588,2098
-4,Imbad0202,academic-research-skills,https://github.com/Imbad0202/academic-research-skills,Academic Research Skills for Claude Code: research → write → review → revise → finalize,Python,10257,1106,3624
-5,yikart,AiToEarn,https://github.com/yikart/AiToEarn,Let's use AI to Earn!,TypeScript,15021,2480,4687
-6,anthropics,financial-services,https://github.com/anthropics/financial-services,,Python,24965,3450,5977
-7,mattpocock,skills,https://github.com/mattpocock/skills,Skills for Real Engineers. Straight from my .claude directory.,Shell,90690,7951,19679
-8,ruvnet,RuView,https://github.com/ruvnet/RuView,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,59511,7763,6733
-9,millionco,react-doctor,https://github.com/millionco/react-doctor,Your agent writes bad React. This catches it,TypeScript,10069,320,2430
-10,colbymchenry,codegraph,https://github.com/colbymchenry/codegraph,"Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",TypeScript,3889,282,1935
+1,colbymchenry,codegraph,https://github.com/colbymchenry/codegraph,"Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",TypeScript,24022,1319,18136
+2,tinyhumansai,openhuman,https://github.com/tinyhumansai/openhuman,"Your Personal AI super intelligence. Private, Simple and extremely powerful.",Rust,27558,2553,15194
+3,Lum1104,Understand-Anything,https://github.com/Lum1104/Understand-Anything,"Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",TypeScript,29130,2435,9102
+4,Imbad0202,academic-research-skills,https://github.com/Imbad0202/academic-research-skills,Academic Research Skills for Claude Code: research → write → review → revise → finalize,Python,21158,1795,11401
+5,rohitg00,ai-engineering-from-scratch,https://github.com/rohitg00/ai-engineering-from-scratch,Learn it. Build it. Ship it for others.,Python,17726,3031,6944
+6,ruvnet,RuView,https://github.com/ruvnet/RuView,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,65670,8678,6461
+7,rohitg00,agentmemory,https://github.com/rohitg00/agentmemory,#1 Persistent memory for AI coding agents based on real-world benchmarks,TypeScript,17641,1443,6391
+8,CloakHQ,CloakBrowser,https://github.com/CloakHQ/CloakBrowser,Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.,Python,20728,1642,6892
+9,supertone-inc,supertonic,https://github.com/supertone-inc/supertonic,"Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",Swift,10351,1056,2726
+10,can1357,oh-my-pi,https://github.com/can1357/oh-my-pi,"⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",TypeScript,7194,580,2361

@@ -1,39 +1,39 @@
 {
-  "generated_at_utc": "2026-05-18T11:45:44.147881+00:00",
+  "generated_at_utc": "2026-05-25T11:54:04.199667+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "CloakHQ",
-      "name": "CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "stars_total": 14501,
-      "forks": 1130,
-      "stars_this_week": 9007
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars_total": 24022,
+      "forks": 1319,
+      "stars_this_week": 18136
     },
     {
       "rank": 2,
-      "owner": "rohitg00",
-      "name": "agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_total": 11961,
-      "forks": 1014,
-      "stars_this_week": 7103
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_total": 27558,
+      "forks": 2553,
+      "stars_this_week": 15194
     },
     {
       "rank": 3,
-      "owner": "oven-sh",
-      "name": "bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_total": 91884,
-      "forks": 4588,
-      "stars_this_week": 2098
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars_total": 29130,
+      "forks": 2435,
+      "stars_this_week": 9102
     },
     {
       "rank": 4,
@@ -42,75 +42,75 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_total": 10257,
-      "forks": 1106,
-      "stars_this_week": 3624
+      "stars_total": 21158,
+      "forks": 1795,
+      "stars_this_week": 11401
     },
     {
       "rank": 5,
-      "owner": "yikart",
-      "name": "AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_total": 15021,
-      "forks": 2480,
-      "stars_this_week": 4687
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_total": 17726,
+      "forks": 3031,
+      "stars_this_week": 6944
     },
     {
       "rank": 6,
-      "owner": "anthropics",
-      "name": "financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_total": 24965,
-      "forks": 3450,
-      "stars_this_week": 5977
-    },
-    {
-      "rank": 7,
-      "owner": "mattpocock",
-      "name": "skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_total": 90690,
-      "forks": 7951,
-      "stars_this_week": 19679
-    },
-    {
-      "rank": 8,
       "owner": "ruvnet",
       "name": "RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 59511,
-      "forks": 7763,
-      "stars_this_week": 6733
+      "stars_total": 65670,
+      "forks": 8678,
+      "stars_this_week": 6461
+    },
+    {
+      "rank": 7,
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars_total": 17641,
+      "forks": 1443,
+      "stars_this_week": 6391
+    },
+    {
+      "rank": 8,
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars_total": 20728,
+      "forks": 1642,
+      "stars_this_week": 6892
     },
     {
       "rank": 9,
-      "owner": "millionco",
-      "name": "react-doctor",
-      "url": "https://github.com/millionco/react-doctor",
-      "description": "Your agent writes bad React. This catches it",
-      "language": "TypeScript",
-      "stars_total": 10069,
-      "forks": 320,
-      "stars_this_week": 2430
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars_total": 10351,
+      "forks": 1056,
+      "stars_this_week": 2726
     },
     {
       "rank": 10,
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_total": 3889,
-      "forks": 282,
-      "stars_this_week": 1935
+      "stars_total": 7194,
+      "forks": 580,
+      "stars_this_week": 2361
     }
   ]
 }
