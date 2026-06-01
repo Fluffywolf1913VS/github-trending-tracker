@@ -1,50 +1,50 @@
 {
-  "generated_at_utc": "2026-05-25T11:54:04.199667+00:00",
+  "generated_at_utc": "2026-06-01T13:37:56.500526+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_total": 24022,
-      "forks": 1319,
-      "stars_this_week": 18136
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_total": 76421,
+      "forks": 10846,
+      "stars_this_week": 15955
     },
     {
       "rank": 2,
-      "owner": "tinyhumansai",
-      "name": "openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_total": 27558,
-      "forks": 2553,
-      "stars_this_week": 15194
-    },
-    {
-      "rank": 3,
       "owner": "Lum1104",
       "name": "Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_total": 29130,
-      "forks": 2435,
-      "stars_this_week": 9102
+      "stars_total": 48359,
+      "forks": 3929,
+      "stars_this_week": 22750
+    },
+    {
+      "rank": 3,
+      "owner": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_total": 136981,
+      "forks": 9339,
+      "stars_this_week": 9353
     },
     {
       "rank": 4,
-      "owner": "Imbad0202",
-      "name": "academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_total": 21158,
-      "forks": 1795,
-      "stars_this_week": 11401
+      "owner": "hardikpandya",
+      "name": "stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "stars_total": 7914,
+      "forks": 562,
+      "stars_this_week": 3770
     },
     {
       "rank": 5,
@@ -53,64 +53,64 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_total": 17726,
-      "forks": 3031,
-      "stars_this_week": 6944
+      "stars_total": 26497,
+      "forks": 4303,
+      "stars_this_week": 10586
     },
     {
       "rank": 6,
-      "owner": "ruvnet",
-      "name": "RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_total": 65670,
-      "forks": 8678,
-      "stars_this_week": 6461
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_total": 30584,
+      "forks": 2268,
+      "stars_this_week": 10813
     },
     {
       "rank": 7,
-      "owner": "rohitg00",
-      "name": "agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_total": 17641,
-      "forks": 1443,
-      "stars_this_week": 6391
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 18572,
+      "forks": 2181,
+      "stars_this_week": 4944
     },
     {
       "rank": 8,
-      "owner": "CloakHQ",
-      "name": "CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "stars_total": 20728,
-      "forks": 1642,
-      "stars_this_week": 6892
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars_total": 36383,
+      "forks": 2259,
+      "stars_this_week": 13925
     },
     {
       "rank": 9,
-      "owner": "supertone-inc",
-      "name": "supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "stars_total": 10351,
-      "forks": 1056,
-      "stars_this_week": 2726
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_total": 13137,
+      "forks": 1537,
+      "stars_this_week": 4896
     },
     {
       "rank": 10,
-      "owner": "can1357",
-      "name": "oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "language": "TypeScript",
-      "stars_total": 7194,
-      "forks": 580,
-      "stars_this_week": 2361
+      "owner": "revfactory",
+      "name": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_total": 4969,
+      "forks": 677,
+      "stars_this_week": 957
     }
   ]
 }
