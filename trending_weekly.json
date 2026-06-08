@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-06-01T13:37:56.500526+00:00",
+  "generated_at_utc": "2026-06-08T12:34:56.172180+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "owner": "chopratejas",
+      "name": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_total": 76421,
-      "forks": 10846,
-      "stars_this_week": 15955
+      "stars_total": 17685,
+      "forks": 1129,
+      "stars_this_week": 14272
     },
     {
       "rank": 2,
-      "owner": "Lum1104",
-      "name": "Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "TypeScript",
-      "stars_total": 48359,
-      "forks": 3929,
-      "stars_this_week": 22750
-    },
-    {
-      "rank": 3,
       "owner": "microsoft",
       "name": "markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_total": 136981,
-      "forks": 9339,
-      "stars_this_week": 9353
+      "stars_total": 148029,
+      "forks": 10155,
+      "stars_this_week": 13359
+    },
+    {
+      "rank": 3,
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_total": 33078,
+      "forks": 2717,
+      "stars_this_week": 2718
     },
     {
       "rank": 4,
-      "owner": "hardikpandya",
-      "name": "stop-slop",
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": "",
-      "stars_total": 7914,
-      "forks": 562,
-      "stars_this_week": 3770
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars_total": 10461,
+      "forks": 1226,
+      "stars_this_week": 2388
     },
     {
       "rank": 5,
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 26497,
-      "forks": 4303,
-      "stars_this_week": 10586
+      "stars_total": 23601,
+      "forks": 1989,
+      "stars_this_week": 2289
     },
     {
       "rank": 6,
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_total": 81750,
+      "forks": 11646,
+      "stars_this_week": 7992
+    },
+    {
+      "rank": 7,
+      "owner": "openai",
+      "name": "plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_total": 2197,
+      "forks": 278,
+      "stars_this_week": 595
+    },
+    {
+      "rank": 8,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_total": 210382,
+      "forks": 32260,
+      "stars_this_week": 10207
+    },
+    {
+      "rank": 9,
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars_total": 26135,
+      "forks": 2278,
+      "stars_this_week": 2924
+    },
+    {
+      "rank": 10,
       "owner": "Leonxlnx",
       "name": "taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_total": 30584,
-      "forks": 2268,
-      "stars_this_week": 10813
-    },
-    {
-      "rank": 7,
-      "owner": "anthropics",
-      "name": "knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 18572,
-      "forks": 2181,
-      "stars_this_week": 4944
-    },
-    {
-      "rank": 8,
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_total": 36383,
-      "forks": 2259,
-      "stars_this_week": 13925
-    },
-    {
-      "rank": 9,
-      "owner": "mukul975",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_total": 13137,
-      "forks": 1537,
-      "stars_this_week": 4896
-    },
-    {
-      "rank": 10,
-      "owner": "revfactory",
-      "name": "harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_total": 4969,
-      "forks": 677,
-      "stars_this_week": 957
+      "stars_total": 37997,
+      "forks": 2710,
+      "stars_this_week": 6385
     }
   ]
 }
