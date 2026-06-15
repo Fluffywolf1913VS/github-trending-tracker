@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,chopratejas,headroom,https://github.com/chopratejas/headroom,"Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",Python,17685,1129,14272
-2,microsoft,markitdown,https://github.com/microsoft/markitdown,Python tool for converting files and office documents to Markdown.,Python,148029,10155,13359
-3,mvanhorn,last30days-skill,https://github.com/mvanhorn/last30days-skill,"AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",Python,33078,2717,2718
-4,Open-LLM-VTuber,Open-LLM-VTuber,https://github.com/Open-LLM-VTuber/Open-LLM-VTuber,"Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",Python,10461,1226,2388
-5,Panniantong,Agent-Reach,https://github.com/Panniantong/Agent-Reach,"Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",Python,23601,1989,2289
-6,harry0703,MoneyPrinterTurbo,https://github.com/harry0703/MoneyPrinterTurbo,利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.,Python,81750,11646,7992
-7,openai,plugins,https://github.com/openai/plugins,OpenAI Plugins,JavaScript,2197,278,595
-8,affaan-m,ECC,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,210382,32260,10207
-9,supermemoryai,supermemory,https://github.com/supermemoryai/supermemory,"Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",TypeScript,26135,2278,2924
-10,Leonxlnx,taste-skill,https://github.com/Leonxlnx/taste-skill,"Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",Shell,37997,2710,6385
+1,mvanhorn,last30days-skill,https://github.com/mvanhorn/last30days-skill,"AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",Python,42610,3465,12053
+2,apple,container,https://github.com/apple/container,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",Swift,37294,1068,10021
+3,phuryn,pm-skills,https://github.com/phuryn/pm-skills,"PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",,18465,1901,5713
+4,NVIDIA,SkillSpector,https://github.com/NVIDIA/SkillSpector,"Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",Python,5993,443,3669
+5,chopratejas,headroom,https://github.com/chopratejas/headroom,"Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",Python,28330,1917,10653
+6,addyosmani,agent-skills,https://github.com/addyosmani/agent-skills,Production-grade engineering skills for AI coding agents.,Shell,60050,6507,10445
+7,Panniantong,Agent-Reach,https://github.com/Panniantong/Agent-Reach,"Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",Python,29531,2406,5468
+8,RyanCodrai,turbovec,https://github.com/RyanCodrai/turbovec,"A vector index built on TurboQuant, written in Rust with Python bindings",Python,11590,1004,4895
+9,refactoringhq,tolaria,https://github.com/refactoringhq/tolaria,Desktop app to manage markdown knowledge bases,TypeScript,16337,1118,3592
+10,music-assistant,server,https://github.com/music-assistant/server,"Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",Python,2329,442,504
