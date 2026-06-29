@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-06-22T13:36:15.610138+00:00",
+  "generated_at_utc": "2026-06-29T12:36:12.358256+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "DeusData",
-      "name": "codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_total": 11045,
-      "forks": 823,
-      "stars_this_week": 6372
-    },
-    {
-      "rank": 2,
       "owner": "calesthio",
       "name": "OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_total": 10696,
-      "forks": 1448,
-      "stars_this_week": 2867
+      "stars_total": 28012,
+      "forks": 3115,
+      "stars_this_week": 18703
+    },
+    {
+      "rank": 2,
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_total": 20770,
+      "forks": 1486,
+      "stars_this_week": 8926
     },
     {
       "rank": 3,
+      "owner": "google-labs-code",
+      "name": "design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_total": 23079,
+      "forks": 1830,
+      "stars_this_week": 6728
+    },
+    {
+      "rank": 4,
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars_total": 15971,
+      "forks": 921,
+      "stars_this_week": 3218
+    },
+    {
+      "rank": 5,
+      "owner": "kunchenguid",
+      "name": "no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_total": 4212,
+      "forks": 236,
+      "stars_this_week": 2449
+    },
+    {
+      "rank": 6,
+      "owner": "JCodesMore",
+      "name": "ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_total": 23295,
+      "forks": 3328,
+      "stars_this_week": 5317
+    },
+    {
+      "rank": 7,
+      "owner": "interviewstreet",
+      "name": "hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "stars_total": 3526,
+      "forks": 734,
+      "stars_this_week": 1973
+    },
+    {
+      "rank": 8,
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_total": 51602,
+      "forks": 44818,
+      "stars_this_week": 7045
+    },
+    {
+      "rank": 9,
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_total": 8932,
+      "forks": 615,
+      "stars_this_week": 2769
+    },
+    {
+      "rank": 10,
       "owner": "Panniantong",
       "name": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 37530,
-      "forks": 2986,
-      "stars_this_week": 8233
-    },
-    {
-      "rank": 4,
-      "owner": "n0-computer",
-      "name": "iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "stars_total": 10503,
-      "forks": 478,
-      "stars_this_week": 1712
-    },
-    {
-      "rank": 5,
-      "owner": "google-research",
-      "name": "timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 25037,
-      "forks": 2384,
-      "stars_this_week": 4114
-    },
-    {
-      "rank": 6,
-      "owner": "iptv-org",
-      "name": "iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_total": 127365,
-      "forks": 6992,
-      "stars_this_week": 7266
-    },
-    {
-      "rank": 7,
-      "owner": "asgeirtj",
-      "name": "system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_total": 44876,
-      "forks": 7396,
-      "stars_this_week": 1984
-    },
-    {
-      "rank": 8,
-      "owner": "withastro",
-      "name": "flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "language": "TypeScript",
-      "stars_total": 6377,
-      "forks": 356,
-      "stars_this_week": 1272
-    },
-    {
-      "rank": 9,
-      "owner": "NVIDIA",
-      "name": "SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_total": 9267,
-      "forks": 722,
-      "stars_this_week": 4055
-    },
-    {
-      "rank": 10,
-      "owner": "teslamate-org",
-      "name": "teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]",
-      "language": "Elixir",
-      "stars_total": 8556,
-      "forks": 966,
-      "stars_this_week": 431
+      "stars_total": 45244,
+      "forks": 3585,
+      "stars_this_week": 7692
     }
   ]
 }
