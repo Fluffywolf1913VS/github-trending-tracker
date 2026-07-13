@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-07-06T12:05:43.241993+00:00",
+  "generated_at_utc": "2026-07-13T11:12:36.704499+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "usestrix",
-      "name": "strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_total": 37675,
-      "forks": 3821,
-      "stars_this_week": 10338
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_total": 8129,
+      "forks": 994,
+      "stars_this_week": 1678
     },
     {
       "rank": 2,
-      "owner": "hasaneyldrm",
-      "name": "exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars_total": 10081,
-      "forks": 1143,
-      "stars_this_week": 7084
+      "owner": "abseil",
+      "name": "abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars_total": 17953,
+      "forks": 3219,
+      "stars_this_week": 600
     },
     {
       "rank": 3,
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars_total": 12240,
-      "forks": 1777,
-      "stars_this_week": 4411
-    },
-    {
-      "rank": 4,
       "owner": "Zackriya-Solutions",
       "name": "meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars_total": 18312,
-      "forks": 1874,
-      "stars_this_week": 2972
+      "stars_total": 23836,
+      "forks": 2503,
+      "stars_this_week": 7440
+    },
+    {
+      "rank": 4,
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_total": 9897,
+      "forks": 969,
+      "stars_this_week": 2490
     },
     {
       "rank": 5,
-      "owner": "altic-dev",
-      "name": "FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-      "language": "Swift",
-      "stars_total": 6271,
-      "forks": 394,
-      "stars_this_week": 2760
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars_total": 28238,
+      "forks": 1853,
+      "stars_this_week": 2803
     },
     {
       "rank": 6,
@@ -64,53 +64,53 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_total": 12495,
-      "forks": 727,
-      "stars_this_week": 3937
+      "stars_total": 15960,
+      "forks": 1072,
+      "stars_this_week": 3928
     },
     {
       "rank": 7,
-      "owner": "xbtlin",
-      "name": "ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_total": 10898,
-      "forks": 1404,
-      "stars_this_week": 5038
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_total": 15810,
+      "forks": 1071,
+      "stars_this_week": 6978
     },
     {
       "rank": 8,
-      "owner": "alibaba",
-      "name": "page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_total": 24417,
-      "forks": 2093,
-      "stars_this_week": 3151
+      "stars_total": 16484,
+      "forks": 2507,
+      "stars_this_week": 4506
     },
     {
       "rank": 9,
-      "owner": "browser-use",
-      "name": "video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars_total": 15281,
-      "forks": 1801,
-      "stars_this_week": 4288
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_total": 56983,
+      "forks": 9422,
+      "stars_this_week": 7155
     },
     {
       "rank": 10,
-      "owner": "Robbyant",
-      "name": "lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_total": 10001,
-      "forks": 991,
-      "stars_this_week": 1875
+      "stars_total": 7953,
+      "forks": 883,
+      "stars_this_week": 4353
     }
   ]
 }
