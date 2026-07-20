@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,wonderwhy-er,DesktopCommanderMCP,https://github.com/wonderwhy-er/DesktopCommanderMCP,"This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",TypeScript,8129,994,1678
-2,abseil,abseil-cpp,https://github.com/abseil/abseil-cpp,Abseil Common Libraries (C++),C++,17953,3219,600
-3,Zackriya-Solutions,meetily,https://github.com/Zackriya-Solutions/meetily,"Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",Rust,23836,2503,7440
-4,TencentCloud,CubeSandbox,https://github.com/TencentCloud/CubeSandbox,"Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",Rust,9897,969,2490
-5,openai,codex-plugin-cc,https://github.com/openai/codex-plugin-cc,Use Codex from Claude Code to review code or delegate tasks.,JavaScript,28238,1853,2803
-6,ogulcancelik,herdr,https://github.com/ogulcancelik/herdr,agent multiplexer that lives in your terminal.,Rust,15960,1072,3928
-7,iOfficeAI,OfficeCLI,https://github.com/iOfficeAI/OfficeCLI,"OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",C#,15810,1071,6978
-8,diegosouzapw,OmniRoute,https://github.com/diegosouzapw/OmniRoute,"Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",TypeScript,16484,2507,4506
-9,asgeirtj,system_prompts_leaks,https://github.com/asgeirtj/system_prompts_leaks,"Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",JavaScript,56983,9422,7155
-10,bradautomates,claude-video,https://github.com/bradautomates/claude-video,"Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",Python,7953,883,4353
+1,Nutlope,hallmark,https://github.com/Nutlope/hallmark,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,13806,695,9193
+2,OpenCut-app,OpenCut,https://github.com/OpenCut-app/OpenCut,The open-source CapCut alternative,TypeScript,76154,7653,12743
+3,Shubhamsaboo,awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps,"100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",Python,124874,18440,6211
+4,HKUDS,DeepTutor,https://github.com/HKUDS/DeepTutor,DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .,Python,28211,3732,2375
+5,HKUDS,Vibe-Trading,https://github.com/HKUDS/Vibe-Trading,"""Vibe-Trading: Your Personal Trading Agent""",Python,25496,4194,5228
+6,tirth8205,code-review-graph,https://github.com/tirth8205/code-review-graph,"Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",Python,22216,2227,1103
+7,ibelick,ui-skills,https://github.com/ibelick/ui-skills,Skills for Design Engineers,TypeScript,5557,236,1669
+8,mattpocock,skills,https://github.com/mattpocock/skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,178278,15257,10983
+9,kangarooking,cangjie-skill,https://github.com/kangarooking/cangjie-skill,把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills,Python,4009,546,1284
+10,iOfficeAI,OfficeCLI,https://github.com/iOfficeAI/OfficeCLI,"OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",C#,19935,1343,4269
