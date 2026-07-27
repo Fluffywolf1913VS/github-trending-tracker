@@ -1,61 +1,61 @@
 {
-  "generated_at_utc": "2026-07-20T10:53:17.655487+00:00",
+  "generated_at_utc": "2026-07-27T11:24:25.326814+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "Nutlope",
-      "name": "hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_total": 13806,
-      "forks": 695,
-      "stars_this_week": 9193
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_total": 10984,
+      "forks": 554,
+      "stars_this_week": 6991
     },
     {
       "rank": 2,
-      "owner": "OpenCut-app",
-      "name": "OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_total": 76154,
-      "forks": 7653,
-      "stars_this_week": 12743
+      "stars_total": 75100,
+      "forks": 11273,
+      "stars_this_week": 12615
     },
     {
       "rank": 3,
-      "owner": "Shubhamsaboo",
-      "name": "awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
-      "stars_total": 124874,
-      "forks": 18440,
-      "stars_this_week": 6211
+      "stars_total": 22173,
+      "forks": 2225,
+      "stars_this_week": 15909
     },
     {
       "rank": 4,
-      "owner": "HKUDS",
-      "name": "DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "language": "Python",
-      "stars_total": 28211,
-      "forks": 3732,
-      "stars_this_week": 2375
+      "owner": "oblien",
+      "name": "openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars_total": 8814,
+      "forks": 716,
+      "stars_this_week": 5844
     },
     {
       "rank": 5,
-      "owner": "HKUDS",
-      "name": "Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_total": 25496,
-      "forks": 4194,
-      "stars_this_week": 5228
+      "owner": "agegr",
+      "name": "pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars_total": 2968,
+      "forks": 393,
+      "stars_this_week": 1551
     },
     {
       "rank": 6,
@@ -64,53 +64,53 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_total": 22216,
-      "forks": 2227,
-      "stars_this_week": 1103
+      "stars_total": 26804,
+      "forks": 2492,
+      "stars_this_week": 6006
     },
     {
       "rank": 7,
-      "owner": "ibelick",
-      "name": "ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "description": "Skills for Design Engineers",
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_total": 5557,
-      "forks": 236,
-      "stars_this_week": 1669
+      "stars_total": 31612,
+      "forks": 4090,
+      "stars_this_week": 10912
     },
     {
       "rank": 8,
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM effiecent harness",
+      "language": "Rust",
+      "stars_total": 11757,
+      "forks": 1307,
+      "stars_this_week": 2909
+    },
+    {
+      "rank": 9,
       "owner": "mattpocock",
       "name": "skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 178278,
-      "forks": 15257,
-      "stars_this_week": 10983
-    },
-    {
-      "rank": 9,
-      "owner": "kangarooking",
-      "name": "cangjie-skill",
-      "url": "https://github.com/kangarooking/cangjie-skill",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "language": "Python",
-      "stars_total": 4009,
-      "forks": 546,
-      "stars_this_week": 1284
+      "stars_total": 190695,
+      "forks": 16383,
+      "stars_this_week": 12238
     },
     {
       "rank": 10,
-      "owner": "iOfficeAI",
-      "name": "OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_total": 19935,
-      "forks": 1343,
-      "stars_this_week": 4269
+      "owner": "earendil-works",
+      "name": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_total": 78711,
+      "forks": 9682,
+      "stars_this_week": 5389
     }
   ]
 }

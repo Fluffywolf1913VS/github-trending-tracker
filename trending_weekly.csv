@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,Nutlope,hallmark,https://github.com/Nutlope/hallmark,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,13806,695,9193
-2,OpenCut-app,OpenCut,https://github.com/OpenCut-app/OpenCut,The open-source CapCut alternative,TypeScript,76154,7653,12743
-3,Shubhamsaboo,awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps,"100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",Python,124874,18440,6211
-4,HKUDS,DeepTutor,https://github.com/HKUDS/DeepTutor,DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .,Python,28211,3732,2375
-5,HKUDS,Vibe-Trading,https://github.com/HKUDS/Vibe-Trading,"""Vibe-Trading: Your Personal Trading Agent""",Python,25496,4194,5228
-6,tirth8205,code-review-graph,https://github.com/tirth8205/code-review-graph,"Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",Python,22216,2227,1103
-7,ibelick,ui-skills,https://github.com/ibelick/ui-skills,Skills for Design Engineers,TypeScript,5557,236,1669
-8,mattpocock,skills,https://github.com/mattpocock/skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,178278,15257,10983
-9,kangarooking,cangjie-skill,https://github.com/kangarooking/cangjie-skill,把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills,Python,4009,546,1284
-10,iOfficeAI,OfficeCLI,https://github.com/iOfficeAI/OfficeCLI,"OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",C#,19935,1343,4269
+1,ayghri,i-have-adhd,https://github.com/ayghri/i-have-adhd,A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.,Python,10984,554,6991
+2,koala73,worldmonitor,https://github.com/koala73/worldmonitor,"Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",TypeScript,75100,11273,12615
+3,bojieli,ai-agent-book,https://github.com/bojieli/ai-agent-book,《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码,Python,22173,2225,15909
+4,oblien,openship,https://github.com/oblien/openship,Self-hosted deployment platform,TypeScript,8814,716,5844
+5,agegr,pi-web,https://github.com/agegr/pi-web,Web UI for the pi coding agent,TypeScript,2968,393,1551
+6,tirth8205,code-review-graph,https://github.com/tirth8205/code-review-graph,"Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",Python,26804,2492,6006
+7,diegosouzapw,OmniRoute,https://github.com/diegosouzapw/OmniRoute,"Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",TypeScript,31612,4090,10912
+8,1jehuang,jcode,https://github.com/1jehuang/jcode,The most RAM effiecent harness,Rust,11757,1307,2909
+9,mattpocock,skills,https://github.com/mattpocock/skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,190695,16383,12238
+10,earendil-works,pi,https://github.com/earendil-works/pi,"AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",TypeScript,78711,9682,5389
