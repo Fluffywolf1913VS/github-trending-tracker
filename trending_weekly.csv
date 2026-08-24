@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,cathrynlavery,diagram-design,https://github.com/cathrynlavery/diagram-design,"29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",HTML,19999,1223,15600
-2,semantica-agi,semantica,https://github.com/semantica-agi/semantica,Graph-Native Infrastructure for Context and Accountable AI Systems,Python,8345,857,5284
-3,PrimeIntellect-ai,prime-agent,https://github.com/PrimeIntellect-ai/prime-agent,A self-improving RLM agent for coding workflows and long-running autonomous tasks.,TypeScript,16715,1799,6435
-4,NVIDIA-NeMo,Switchyard,https://github.com/NVIDIA-NeMo/Switchyard,"Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",Rust,1735,154,1435
-5,megadose,holehe,https://github.com/megadose/holehe,"holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",Python,13340,1765,1287
-6,cactus-compute,needle,https://github.com/cactus-compute/needle,"14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",Python,6885,442,2950
-7,macro-inc,macro,https://github.com/macro-inc/macro,"Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",Rust,3459,347,2588
-8,vitali87,code-graph-rag,https://github.com/vitali87/code-graph-rag,"The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",Python,4458,600,1686
-9,ToolJet,ToolJet,https://github.com/ToolJet/ToolJet,"ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",JavaScript,40297,5345,1518
-10,addyosmani,agent-skills,https://github.com/addyosmani/agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,87881,9413,2882
+1,modular,modular,https://github.com/modular/modular,The Modular Platform (includes MAX & Mojo),Mojo,29021,3083,2176
+2,harry0703,MoneyPrinterTurbo,https://github.com/harry0703/MoneyPrinterTurbo,利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.,Python,115593,17556,11167
+3,basecamp,omarchy,https://github.com/basecamp/omarchy,"Beautiful, Modern & Opinionated Linux",Shell,29526,2987,3660
+4,AprilNEA,OpenLogi,https://github.com/AprilNEA/OpenLogi,"⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",Rust,15321,413,6078
+5,cordiverse,cordis,https://github.com/cordiverse/cordis,Meta-Framework of Spatiotemporal Composability,TypeScript,7327,428,2725
+6,volcengine,OpenViking,https://github.com/volcengine/OpenViking,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",Python,32727,2498,3799
+7,public-apis,public-apis,https://github.com/public-apis/public-apis,A collective list of free APIs,Python,469479,51777,8295
+8,jundot,omlx,https://github.com/jundot/omlx,LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar,Python,20486,1736,1671
+9,anthropics,claude-plugins-community,https://github.com/anthropics/claude-plugins-community,Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.,Python,1130,139,406
+10,cursor,plugins,https://github.com/cursor/plugins,Cursor plugin specification and official plugins,TypeScript,4859,397,1761
