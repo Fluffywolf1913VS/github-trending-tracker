@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,modular,modular,https://github.com/modular/modular,The Modular Platform (includes MAX & Mojo),Mojo,29021,3083,2176
-2,harry0703,MoneyPrinterTurbo,https://github.com/harry0703/MoneyPrinterTurbo,利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.,Python,115593,17556,11167
-3,basecamp,omarchy,https://github.com/basecamp/omarchy,"Beautiful, Modern & Opinionated Linux",Shell,29526,2987,3660
-4,AprilNEA,OpenLogi,https://github.com/AprilNEA/OpenLogi,"⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",Rust,15321,413,6078
-5,cordiverse,cordis,https://github.com/cordiverse/cordis,Meta-Framework of Spatiotemporal Composability,TypeScript,7327,428,2725
-6,volcengine,OpenViking,https://github.com/volcengine/OpenViking,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",Python,32727,2498,3799
-7,public-apis,public-apis,https://github.com/public-apis/public-apis,A collective list of free APIs,Python,469479,51777,8295
-8,jundot,omlx,https://github.com/jundot/omlx,LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar,Python,20486,1736,1671
-9,anthropics,claude-plugins-community,https://github.com/anthropics/claude-plugins-community,Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.,Python,1130,139,406
-10,cursor,plugins,https://github.com/cursor/plugins,Cursor plugin specification and official plugins,TypeScript,4859,397,1761
+1,tt-a1i,archify,https://github.com/tt-a1i/archify,"Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",JavaScript,37596,2424,18103
+2,freestylefly,awesome-gpt-image-2,https://github.com/freestylefly/awesome-gpt-image-2,Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中,JavaScript,26263,2565,13413
+3,anthropics,claude-plugins-community,https://github.com/anthropics/claude-plugins-community,Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.,Python,3016,240,2162
+4,omacom,omarchy,https://github.com/omacom/omarchy,"Beautiful, Modern & Opinionated Linux",Shell,35967,3718,6692
+5,THU-MAIC,OpenMAIC,https://github.com/THU-MAIC/OpenMAIC,"Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",TypeScript,26302,4693,2085
+6,MadsLorentzen,ai-job-search,https://github.com/MadsLorentzen/ai-job-search,"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",Python,38952,13196,5348
+7,apache,maka,https://github.com/apache/maka,"Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",TypeScript,4296,402,1973
+8,K-Dense-AI,scientific-agent-skills,https://github.com/K-Dense-AI/scientific-agent-skills,"Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",Python,40482,3748,4309
+9,tashfeenahmed,freellmapi,https://github.com/tashfeenahmed/freellmapi,"7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",TypeScript,23254,3191,3037
+10,anthropics,claude-plugins-official,https://github.com/anthropics/claude-plugins-official,"Official, Anthropic-managed directory of high quality Claude Code Plugins.",Python,35712,3983,1940
