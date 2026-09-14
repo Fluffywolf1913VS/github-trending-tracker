@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-09-07T14:02:37.455420+00:00",
+  "generated_at_utc": "2026-09-14T14:48:09.468234+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "magnitudedev",
-      "name": "magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "language": "TypeScript",
-      "stars_total": 3940,
-      "forks": 284,
-      "stars_this_week": 1961
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_total": 45117,
+      "forks": 2602,
+      "stars_this_week": 16740
     },
     {
       "rank": 2,
-      "owner": "tt-a1i",
-      "name": "archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_total": 52025,
-      "forks": 3399,
-      "stars_this_week": 17190
+      "stars_total": 33083,
+      "forks": 6609,
+      "stars_this_week": 12931
     },
     {
       "rank": 3,
-      "owner": "Gitlawb",
-      "name": "openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "language": "TypeScript",
-      "stars_total": 32893,
-      "forks": 9062,
-      "stars_this_week": 1944
-    },
-    {
-      "rank": 4,
-      "owner": "THU-MAIC",
-      "name": "OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "stars_total": 32857,
-      "forks": 5351,
-      "stars_this_week": 9193
-    },
-    {
-      "rank": 5,
-      "owner": "google-research",
-      "name": "timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_total": 31773,
-      "forks": 3037,
-      "stars_this_week": 3203
-    },
-    {
-      "rank": 6,
-      "owner": "jingyaogong",
-      "name": "minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "stars_total": 59373,
-      "forks": 7705,
-      "stars_this_week": 3816
-    },
-    {
-      "rank": 7,
-      "owner": "pollen-robotics",
-      "name": "microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
-      "language": "Python",
-      "stars_total": 1879,
-      "forks": 371,
-      "stars_this_week": 1122
-    },
-    {
-      "rank": 8,
-      "owner": "debpalash",
-      "name": "VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_total": 20352,
-      "forks": 2562,
-      "stars_this_week": 7513
-    },
-    {
-      "rank": 9,
-      "owner": "fmtlib",
-      "name": "fmt",
-      "url": "https://github.com/fmtlib/fmt",
-      "description": "A modern formatting library",
-      "language": "C++",
-      "stars_total": 25640,
-      "forks": 3046,
-      "stars_this_week": 1885
-    },
-    {
-      "rank": 10,
       "owner": "affaan-m",
       "name": "ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 252378,
-      "forks": 37873,
-      "stars_this_week": 6394
+      "stars_total": 258147,
+      "forks": 38607,
+      "stars_this_week": 7264
+    },
+    {
+      "rank": 4,
+      "owner": "openai",
+      "name": "plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_total": 6679,
+      "forks": 875,
+      "stars_this_week": 1181
+    },
+    {
+      "rank": 5,
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_total": 138052,
+      "forks": 7406,
+      "stars_this_week": 8444
+    },
+    {
+      "rank": 6,
+      "owner": "mksglu",
+      "name": "context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_total": 22787,
+      "forks": 1648,
+      "stars_this_week": 2102
+    },
+    {
+      "rank": 7,
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 49897,
+      "forks": 4556,
+      "stars_this_week": 5146
+    },
+    {
+      "rank": 8,
+      "owner": "tt-a1i",
+      "name": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars_total": 61794,
+      "forks": 4075,
+      "stars_this_week": 10132
+    },
+    {
+      "rank": 9,
+      "owner": "openai",
+      "name": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars_total": 27154,
+      "forks": 1811,
+      "stars_this_week": 1622
+    },
+    {
+      "rank": 10,
+      "owner": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_total": 183896,
+      "forks": 13534,
+      "stars_this_week": 5191
     }
   ]
 }

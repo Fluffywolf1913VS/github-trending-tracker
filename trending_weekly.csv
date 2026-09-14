@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,magnitudedev,magnitude,https://github.com/magnitudedev/magnitude,"Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",TypeScript,3940,284,1961
-2,tt-a1i,archify,https://github.com/tt-a1i/archify,"Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",JavaScript,52025,3399,17190
-3,Gitlawb,openclaude,https://github.com/Gitlawb/openclaude,runs anywhere. uses anything,TypeScript,32893,9062,1944
-4,THU-MAIC,OpenMAIC,https://github.com/THU-MAIC/OpenMAIC,"Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",TypeScript,32857,5351,9193
-5,google-research,timesfm,https://github.com/google-research/timesfm,TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.,Python,31773,3037,3203
-6,jingyaogong,minimind,https://github.com/jingyaogong/minimind,🧠 Train a 64M-parameter LLM from scratch in just 2h!,Python,59373,7705,3816
-7,pollen-robotics,microduck_rl,https://github.com/pollen-robotics/microduck_rl,RL training environments for Microduck (mjlab),Python,1879,371,1122
-8,debpalash,VoiceStudio,https://github.com/debpalash/VoiceStudio,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",Python,20352,2562,7513
-9,fmtlib,fmt,https://github.com/fmtlib/fmt,A modern formatting library,C++,25640,3046,1885
-10,affaan-m,ECC,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,252378,37873,6394
+1,ayghri,i-have-adhd,https://github.com/ayghri/i-have-adhd,A skill to stop your coding agent from burying the answer. ADHD-friendly output.,Python,45117,2602,16740
+2,bilawalsidhu,gods-eye-view,https://github.com/bilawalsidhu/gods-eye-view,"A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",JavaScript,33083,6609,12931
+3,affaan-m,ECC,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,258147,38607,7264
+4,openai,plugins,https://github.com/openai/plugins,OpenAI Plugins,JavaScript,6679,875,1181
+5,DietrichGebert,ponytail,https://github.com/DietrichGebert/ponytail,Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.,JavaScript,138052,7406,8444
+6,mksglu,context-mode,https://github.com/mksglu/context-mode,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",TypeScript,22787,1648,2102
+7,heygen-com,hyperframes,https://github.com/heygen-com/hyperframes,Write HTML. Render video. Built for agents.,TypeScript,49897,4556,5146
+8,tt-a1i,archify,https://github.com/tt-a1i/archify,"Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",JavaScript,61794,4075,10132
+9,openai,skills,https://github.com/openai/skills,Skills Catalog for Codex,Python,27154,1811,1622
+10,microsoft,markitdown,https://github.com/microsoft/markitdown,Python tool for converting files and office documents to Markdown.,Python,183896,13534,5191
