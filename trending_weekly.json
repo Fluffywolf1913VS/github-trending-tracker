@@ -1,116 +1,116 @@
 {
-  "generated_at_utc": "2026-09-14T14:48:09.468234+00:00",
+  "generated_at_utc": "2026-09-21T14:54:25.111498+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "ayghri",
-      "name": "i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_total": 45117,
-      "forks": 2602,
-      "stars_this_week": 16740
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_total": 38985,
+      "forks": 2788,
+      "stars_this_week": 15504
     },
     {
       "rank": 2,
-      "owner": "bilawalsidhu",
-      "name": "gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_total": 33083,
-      "forks": 6609,
-      "stars_this_week": 12931
+      "owner": "anthropics",
+      "name": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars_total": 147416,
+      "forks": 24105,
+      "stars_this_week": 2342
     },
     {
       "rank": 3,
+      "owner": "JustVugg",
+      "name": "colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_total": 36730,
+      "forks": 3924,
+      "stars_this_week": 7441
+    },
+    {
+      "rank": 4,
+      "owner": "Tencent",
+      "name": "WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_total": 28397,
+      "forks": 3818,
+      "stars_this_week": 5242
+    },
+    {
+      "rank": 5,
       "owner": "affaan-m",
       "name": "ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 258147,
-      "forks": 38607,
-      "stars_this_week": 7264
-    },
-    {
-      "rank": 4,
-      "owner": "openai",
-      "name": "plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_total": 6679,
-      "forks": 875,
-      "stars_this_week": 1181
-    },
-    {
-      "rank": 5,
-      "owner": "DietrichGebert",
-      "name": "ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_total": 138052,
-      "forks": 7406,
-      "stars_this_week": 8444
+      "stars_total": 264437,
+      "forks": 39530,
+      "stars_this_week": 6453
     },
     {
       "rank": 6,
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_total": 25329,
+      "forks": 3012,
+      "stars_this_week": 1298
+    },
+    {
+      "rank": 7,
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_total": 98021,
+      "forks": 10310,
+      "stars_this_week": 3986
+    },
+    {
+      "rank": 8,
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars_total": 74372,
+      "forks": 4865,
+      "stars_this_week": 5841
+    },
+    {
+      "rank": 9,
       "owner": "mksglu",
       "name": "context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_total": 22787,
-      "forks": 1648,
-      "stars_this_week": 2102
-    },
-    {
-      "rank": 7,
-      "owner": "heygen-com",
-      "name": "hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_total": 49897,
-      "forks": 4556,
-      "stars_this_week": 5146
-    },
-    {
-      "rank": 8,
-      "owner": "tt-a1i",
-      "name": "archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "stars_total": 61794,
-      "forks": 4075,
-      "stars_this_week": 10132
-    },
-    {
-      "rank": 9,
-      "owner": "openai",
-      "name": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "stars_total": 27154,
-      "forks": 1811,
-      "stars_this_week": 1622
+      "stars_total": 23852,
+      "forks": 1721,
+      "stars_this_week": 1242
     },
     {
       "rank": 10,
-      "owner": "microsoft",
-      "name": "markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "owner": "home-assistant",
+      "name": "core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars_total": 183896,
-      "forks": 13534,
-      "stars_this_week": 5191
+      "stars_total": 90942,
+      "forks": 38719,
+      "stars_this_week": 480
     }
   ]
 }
