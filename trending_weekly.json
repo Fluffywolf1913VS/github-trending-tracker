@@ -1,83 +1,83 @@
 {
-  "generated_at_utc": "2026-09-21T14:54:25.111498+00:00",
+  "generated_at_utc": "2026-09-28T16:31:58.607011+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_total": 38985,
-      "forks": 2788,
-      "stars_this_week": 15504
+      "owner": "anthropics",
+      "name": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_total": 38005,
+      "forks": 5479,
+      "stars_this_week": 2606
     },
     {
       "rank": 2,
-      "owner": "anthropics",
-      "name": "claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 147416,
-      "forks": 24105,
-      "stars_this_week": 2342
+      "stars_total": 92126,
+      "forks": 15840,
+      "stars_this_week": 7364
     },
     {
       "rank": 3,
-      "owner": "JustVugg",
-      "name": "colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "stars_total": 36730,
-      "forks": 3924,
-      "stars_this_week": 7441
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars_total": 40427,
+      "forks": 5437,
+      "stars_this_week": 11089
     },
     {
       "rank": 4,
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_total": 22626,
+      "forks": 1315,
+      "stars_this_week": 4805
+    },
+    {
+      "rank": 5,
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_total": 32055,
+      "forks": 3648,
+      "stars_this_week": 1154
+    },
+    {
+      "rank": 6,
       "owner": "Tencent",
       "name": "WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_total": 28397,
-      "forks": 3818,
-      "stars_this_week": 5242
-    },
-    {
-      "rank": 5,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_total": 264437,
-      "forks": 39530,
-      "stars_this_week": 6453
-    },
-    {
-      "rank": 6,
-      "owner": "anthropics",
-      "name": "knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_total": 25329,
-      "forks": 3012,
-      "stars_this_week": 1298
+      "stars_total": 30893,
+      "forks": 4127,
+      "stars_this_week": 2705
     },
     {
       "rank": 7,
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "owner": "vercel",
+      "name": "next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
       "language": "JavaScript",
-      "stars_total": 98021,
-      "forks": 10310,
-      "stars_this_week": 3986
+      "stars_total": 142847,
+      "forks": 33347,
+      "stars_this_week": 496
     },
     {
       "rank": 8,
@@ -86,31 +86,31 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 74372,
-      "forks": 4865,
-      "stars_this_week": 5841
+      "stars_total": 80477,
+      "forks": 5241,
+      "stars_this_week": 6227
     },
     {
       "rank": 9,
-      "owner": "mksglu",
-      "name": "context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_total": 23852,
-      "forks": 1721,
-      "stars_this_week": 1242
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars_total": 50857,
+      "forks": 4646,
+      "stars_this_week": 1105
     },
     {
       "rank": 10,
-      "owner": "home-assistant",
-      "name": "core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "owner": "pytorch",
+      "name": "pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 90942,
-      "forks": 38719,
-      "stars_this_week": 480
+      "stars_total": 103457,
+      "forks": 30813,
+      "stars_this_week": 320
     }
   ]
 }

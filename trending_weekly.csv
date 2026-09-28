@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,alibaba,open-code-review,https://github.com/alibaba/open-code-review,"Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",Go,38985,2788,15504
-2,anthropics,claude-code,https://github.com/anthropics/claude-code,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",TypeScript,147416,24105,2342
-3,JustVugg,colibri,https://github.com/JustVugg/colibri,"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",C,36730,3924,7441
-4,Tencent,WeKnora,https://github.com/Tencent/WeKnora,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",Go,28397,3818,5242
-5,affaan-m,ECC,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,264437,39530,6453
-6,anthropics,knowledge-work-plugins,https://github.com/anthropics/knowledge-work-plugins,Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork,Python,25329,3012,1298
-7,addyosmani,agent-skills,https://github.com/addyosmani/agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,98021,10310,3986
-8,stablyai,orca,https://github.com/stablyai/orca,"Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",TypeScript,74372,4865,5841
-9,mksglu,context-mode,https://github.com/mksglu/context-mode,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",TypeScript,23852,1721,1242
-10,home-assistant,core,https://github.com/home-assistant/core,🏡 Open source home automation that puts local control and privacy first.,Python,90942,38719,480
+1,anthropics,financial-services,https://github.com/anthropics/financial-services,,Python,38005,5479,2606
+2,paperclipai,paperclip,https://github.com/paperclipai/paperclip,The open-source app everyone uses to manage agents at work,TypeScript,92126,15840,7364
+3,vectorize-io,hindsight,https://github.com/vectorize-io/hindsight,Hindsight: Agent Memory That Learns,Python,40427,5437,11089
+4,cloudflare,security-audit-skill,https://github.com/cloudflare/security-audit-skill,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,22626,1315,4805
+5,davila7,claude-code-templates,https://github.com/davila7/claude-code-templates,CLI tool for configuring and monitoring Claude Code,Python,32055,3648,1154
+6,Tencent,WeKnora,https://github.com/Tencent/WeKnora,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",Go,30893,4127,2705
+7,vercel,next.js,https://github.com/vercel/next.js,The React Framework,JavaScript,142847,33347,496
+8,stablyai,orca,https://github.com/stablyai/orca,"Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",TypeScript,80477,5241,6227
+9,HKUDS,CLI-Anything,https://github.com/HKUDS/CLI-Anything,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",Python,50857,4646,1105
+10,pytorch,pytorch,https://github.com/pytorch/pytorch,Tensors and Dynamic neural networks in Python with strong GPU acceleration,Python,103457,30813,320
