@@ -1,11 +1,11 @@
 rank,owner,name,url,description,language,stars_total,forks,stars_this_week
-1,anthropics,financial-services,https://github.com/anthropics/financial-services,,Python,38005,5479,2606
-2,paperclipai,paperclip,https://github.com/paperclipai/paperclip,The open-source app everyone uses to manage agents at work,TypeScript,92126,15840,7364
-3,vectorize-io,hindsight,https://github.com/vectorize-io/hindsight,Hindsight: Agent Memory That Learns,Python,40427,5437,11089
-4,cloudflare,security-audit-skill,https://github.com/cloudflare/security-audit-skill,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,22626,1315,4805
-5,davila7,claude-code-templates,https://github.com/davila7/claude-code-templates,CLI tool for configuring and monitoring Claude Code,Python,32055,3648,1154
-6,Tencent,WeKnora,https://github.com/Tencent/WeKnora,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",Go,30893,4127,2705
-7,vercel,next.js,https://github.com/vercel/next.js,The React Framework,JavaScript,142847,33347,496
-8,stablyai,orca,https://github.com/stablyai/orca,"Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",TypeScript,80477,5241,6227
-9,HKUDS,CLI-Anything,https://github.com/HKUDS/CLI-Anything,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",Python,50857,4646,1105
-10,pytorch,pytorch,https://github.com/pytorch/pytorch,Tensors and Dynamic neural networks in Python with strong GPU acceleration,Python,103457,30813,320
+1,pbakaus,impeccable,https://github.com/pbakaus/impeccable,The design language that makes your AI harness better at design.,JavaScript,76912,4582,4242
+2,paperclipai,paperclip,https://github.com/paperclipai/paperclip,The open-source app everyone uses to manage agents at work,TypeScript,97523,16490,8732
+3,vectorize-io,hindsight,https://github.com/vectorize-io/hindsight,Hindsight: Agent Memory That Learns,Python,45829,5925,10623
+4,heygen-com,hyperframes,https://github.com/heygen-com/hyperframes,Write HTML. Render video. Built for agents.,TypeScript,57149,5122,3096
+5,debpalash,VoiceStudio,https://github.com/debpalash/VoiceStudio,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",Python,53575,5980,14689
+6,Panniantong,Agent-Reach,https://github.com/Panniantong/Agent-Reach,"Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",Python,91656,8047,4789
+7,Effect-TS,effect,https://github.com/Effect-TS/effect,Build production-ready applications in TypeScript,TypeScript,17027,824,702
+8,DietrichGebert,ponytail,https://github.com/DietrichGebert/ponytail,Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.,JavaScript,155757,8365,7948
+9,Gaurav-Gosain,tuios,https://github.com/Gaurav-Gosain/tuios,"A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",Go,4774,210,708
+10,pingdotgg,t3code,https://github.com/pingdotgg/t3code,,TypeScript,25487,6574,1304

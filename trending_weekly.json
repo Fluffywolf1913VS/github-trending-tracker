@@ -1,17 +1,17 @@
 {
-  "generated_at_utc": "2026-09-28T16:31:58.607011+00:00",
+  "generated_at_utc": "2026-10-05T16:53:00.269478+00:00",
   "count": 10,
   "repositories": [
     {
       "rank": 1,
-      "owner": "anthropics",
-      "name": "financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_total": 38005,
-      "forks": 5479,
-      "stars_this_week": 2606
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_total": 76912,
+      "forks": 4582,
+      "stars_this_week": 4242
     },
     {
       "rank": 2,
@@ -20,9 +20,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 92126,
-      "forks": 15840,
-      "stars_this_week": 7364
+      "stars_total": 97523,
+      "forks": 16490,
+      "stars_this_week": 8732
     },
     {
       "rank": 3,
@@ -31,86 +31,86 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_total": 40427,
-      "forks": 5437,
-      "stars_this_week": 11089
+      "stars_total": 45829,
+      "forks": 5925,
+      "stars_this_week": 10623
     },
     {
       "rank": 4,
-      "owner": "cloudflare",
-      "name": "security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_total": 22626,
-      "forks": 1315,
-      "stars_this_week": 4805
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_total": 57149,
+      "forks": 5122,
+      "stars_this_week": 3096
     },
     {
       "rank": 5,
-      "owner": "davila7",
-      "name": "claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 32055,
-      "forks": 3648,
-      "stars_this_week": 1154
+      "stars_total": 53575,
+      "forks": 5980,
+      "stars_this_week": 14689
     },
     {
       "rank": 6,
-      "owner": "Tencent",
-      "name": "WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_total": 30893,
-      "forks": 4127,
-      "stars_this_week": 2705
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_total": 91656,
+      "forks": 8047,
+      "stars_this_week": 4789
     },
     {
       "rank": 7,
-      "owner": "vercel",
-      "name": "next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars_total": 142847,
-      "forks": 33347,
-      "stars_this_week": 496
+      "owner": "Effect-TS",
+      "name": "effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars_total": 17027,
+      "forks": 824,
+      "stars_this_week": 702
     },
     {
       "rank": 8,
-      "owner": "stablyai",
-      "name": "orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars_total": 80477,
-      "forks": 5241,
-      "stars_this_week": 6227
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_total": 155757,
+      "forks": 8365,
+      "stars_this_week": 7948
     },
     {
       "rank": 9,
-      "owner": "HKUDS",
-      "name": "CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "stars_total": 50857,
-      "forks": 4646,
-      "stars_this_week": 1105
+      "owner": "Gaurav-Gosain",
+      "name": "tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "language": "Go",
+      "stars_total": 4774,
+      "forks": 210,
+      "stars_this_week": 708
     },
     {
       "rank": 10,
-      "owner": "pytorch",
-      "name": "pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "stars_total": 103457,
-      "forks": 30813,
-      "stars_this_week": 320
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_total": 25487,
+      "forks": 6574,
+      "stars_this_week": 1304
     }
   ]
 }
